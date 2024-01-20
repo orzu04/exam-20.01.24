@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Exem\task10Fil\bin\Debug\net8.0\task10Fil.exe
+C:\Users\Administrator\Desktop\Exem\task10Fil\bin\Debug\net8.0\task10Fil.deps.json
+C:\Users\Administrator\Desktop\Exem\task10Fil\bin\Debug\net8.0\task10Fil.runtimeconfig.json
+C:\Users\Administrator\Desktop\Exem\task10Fil\bin\Debug\net8.0\task10Fil.dll
+C:\Users\Administrator\Desktop\Exem\task10Fil\bin\Debug\net8.0\task10Fil.pdb
+C:\Users\Administrator\Desktop\Exem\task10Fil\obj\Debug\net8.0\task10Fil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Exem\task10Fil\obj\Debug\net8.0\task10Fil.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Exem\task10Fil\obj\Debug\net8.0\task10Fil.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Exem\task10Fil\obj\Debug\net8.0\task10Fil.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Exem\task10Fil\obj\Debug\net8.0\task10Fil.dll
+C:\Users\Administrator\Desktop\Exem\task10Fil\obj\Debug\net8.0\refint\task10Fil.dll
+C:\Users\Administrator\Desktop\Exem\task10Fil\obj\Debug\net8.0\task10Fil.pdb
+C:\Users\Administrator\Desktop\Exem\task10Fil\obj\Debug\net8.0\task10Fil.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Exem\task10Fil\obj\Debug\net8.0\ref\task10Fil.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Exem\task1File\bin\Debug\net8.0\task1File.exe
+C:\Users\Administrator\Desktop\Exem\task1File\bin\Debug\net8.0\task1File.deps.json
+C:\Users\Administrator\Desktop\Exem\task1File\bin\Debug\net8.0\task1File.runtimeconfig.json
+C:\Users\Administrator\Desktop\Exem\task1File\bin\Debug\net8.0\task1File.dll
+C:\Users\Administrator\Desktop\Exem\task1File\bin\Debug\net8.0\task1File.pdb
+C:\Users\Administrator\Desktop\Exem\task1File\obj\Debug\net8.0\task1File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Exem\task1File\obj\Debug\net8.0\task1File.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Exem\task1File\obj\Debug\net8.0\task1File.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Exem\task1File\obj\Debug\net8.0\task1File.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Exem\task1File\obj\Debug\net8.0\task1File.dll
+C:\Users\Administrator\Desktop\Exem\task1File\obj\Debug\net8.0\refint\task1File.dll
+C:\Users\Administrator\Desktop\Exem\task1File\obj\Debug\net8.0\task1File.pdb
+C:\Users\Administrator\Desktop\Exem\task1File\obj\Debug\net8.0\task1File.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Exem\task1File\obj\Debug\net8.0\ref\task1File.dll
